@@ -1,0 +1,4 @@
+git add *
+{ date & git status -s; } >> README.md
+git add README.md
+git status -s
